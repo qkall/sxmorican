@@ -6,20 +6,15 @@
 
 it's sxmo dotfiles for nura with a lot of customization and cherry picked and sloppily made userscripts and hooks.  I eventually landed on sxmorican for two reasons. One, I'm Puerto Rican... Two, 'rico' is rich, so it's a rich (in love) collection to sxmo. 
 
-Oh, to be clear, we can all be rich in our love! 
-
-beeper/gomuks web (https://docs.mau.fi/gomuks/installation.html)
-* theme - https://css.gomuks.app/theme/draculaflow
-
-
 Major thanks to 
 * Magdesign - https://codeberg.org/magdesign/sxmop6/wiki 
 * Raezoth - https://github.com/Raezroth 
 * joecool for irc bridge usage 
 
-
 notable apps I use (check installed apps for apk world full list)
 
+* beeper/gomuks web (https://docs.mau.fi/gomuks/installation.html)
+* beeper theme - https://css.gomuks.app/theme/draculaflow
 * wpaperd - dissolve transition, super slow
 * foot - people hate my theme for it... but I'm happy lol
 * yazi
