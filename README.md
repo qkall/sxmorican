@@ -11,25 +11,28 @@ Major thanks to
 * Raezoth - https://github.com/Raezroth 
 * joecool for irc bridge usage 
 
-notable apps I use (check installed apps for apk world full list)
+Notable apps I use (check installed apps for apk world full list)
 
-* beeper/gomuks web (https://docs.mau.fi/gomuks/installation.html)
-* beeper theme - https://css.gomuks.app/theme/draculaflow
+* beeper - easy matrix bridge as I cannot self-host
+* gomuks web - fav matrix client atm (https://docs.mau.fi/gomuks/installation.html)
+* gomuks theme (most signifacant ai usage as it was a pita to match friendica) - https://css.gomuks.app/theme/draculaflow
 * wpaperd - dissolve transition, super slow
-* foot - people hate my theme for it... but I'm happy lol
+* foot
 * yazi
 * pfetch-rs
+* fastfetch
+* openmw (Tamriel Rebuilt works great)
 * wf-recorder
 * librewolf with firefox minima css & tridactly addon for a qutebrowser experience
-* qutebrowser
-* wvkbd-mobintl with suggapicker and swipeGess
-* gomuks web (currently my favorite matrix client) with beeper.com for lazy bridges
+* qutebrowser (I like to keep gomuks running in this to keep browsing seperate from chatting)
+* wvkbd-mobintl with suggapicker and swipeGess (my word list is attached with a few added words)
 * wofi
 
 
-* very light ai usage... mostly when nuance things were annoying (specific colors, cleaning up rough edits on logo,  or used to learn things new to me like scripts and like bullets in a readme lol)
+* light ai usage... mostly when nuance things were annoying (specific colors, cleaning up rough edits on logo,  or used to learn things new to me like scripts and like bullets in a readme lol)
 
 
 i have a lot to update ... might be easier to ping me
 * matrix - @qkall:beeper.com 
 * https://friendica.world/profile/qkall
+* oneplus 6
