@@ -81,7 +81,7 @@ def main():
     lfm_artist = urllib.parse.quote_plus(artist)
     lfm_track = urllib.parse.quote_plus(title)
     lastfm_url = f"https://www.last.fm/music/{lfm_artist}/_/{lfm_track}"
-    qobuz_url = f"https://www.qobuz.com/us-en/search?q={encoded_q}"
+    qobuz_url = f"https://www.qobuz.com/us-en/search/tracks/{encoded_q}"
 
     try:
         itunes_api = f"https://itunes.apple.com/search?term={encoded_q}&entity=song&limit=1"
