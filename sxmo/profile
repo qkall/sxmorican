@@ -74,3 +74,4 @@ export SXMO_MENU=wofi
 export SXMO_UNLOCK_IDLE_TIME="360"
 export KEYBOARD_ARGS="--alpha 215 -l full,special -H 300 --fg 4a1b4a -fn 'Hack 16' -O | swipeGuess /usr/share/swipeGuess/words/words-qwerty-en 4 | suggpicker | completelyTypeWord.sh"
 export SXMO_BAR_SHOW_BAT_PER=1
+export BEMENU_OPTS="-c -W 0.85 -l 8 --fn 'Monospace 10' -H 28 --nb '#120024' --nf '#D8B4F8' --hb '#4B0082' --hf '#FF70A6' --tb '#120024' --tf '#FF70A6' --fb '#120024' --ff '#D8B4F8'"
