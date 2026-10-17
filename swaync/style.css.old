@@ -1,0 +1,52 @@
+/* --- Dracula Orchid Theme (Forced Solid) --- */
+
+/* 1. Main Background - The Deep Orchid Purple */
+.control-center {
+    background: #4d2459 !important;
+    background-color: #4d2459 !important;
+    color: #f8f8f2 !important;
+    opacity: 1 !important;
+    border: none !important;
+}
+
+/* 2. Notification Cards - Dracula Background */
+.notification {
+    background: #282a36 !important;
+    background-color: #282a36 !important;
+    color: #f8f8f2 !important;
+    border-radius: 8px !important;
+    margin: 8px !important;
+    padding: 8px !important;
+    opacity: 1 !important;
+}
+
+/* 3. Headers and Text */
+.widget-title, 
+.label {
+    color: #f8f8f2 !important;
+    font-weight: bold;
+}
+
+/* 4. Buttons and Toggles */
+.control-center-clear-all {
+    background: #ff79c6 !important; /* Dracula Pink */
+    color: #282a36 !important;
+    font-weight: bold;
+    border-radius: 8px !important;
+}
+
+.widget-dnd > switch {
+    background: #44475a !important;
+}
+
+.widget-dnd > switch:checked {
+    background: #bd93f9 !important; /* Dracula Purple */
+}
+
+/* 5. Force solid on all sub-elements */
+* {
+    opacity: 1 !important;
+    background-clip: border-box !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+}
